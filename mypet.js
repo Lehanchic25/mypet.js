@@ -1,4 +1,4 @@
-// mypet.js: https://github.com/adryd325/mypet.js
+// mypet.js: https://github.com/Lehanchic25/mypet.js
 
 (function mypet() {
   const isReducedMotion =
